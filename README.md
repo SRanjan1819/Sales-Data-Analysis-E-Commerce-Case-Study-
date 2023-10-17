@@ -1,1 +1,3 @@
-# Sales-Data-Analysis-E-Commerce-Case-Study-
+# Sales-Data-Analysis
+E-Commerce-Case-Study
+First_Project
